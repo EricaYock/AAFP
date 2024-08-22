@@ -161,7 +161,7 @@ button {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  border-radius: 16px;
+  border-radius: 12px;
 }
 
 a.button:hover,
